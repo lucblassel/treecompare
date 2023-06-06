@@ -19,3 +19,12 @@
 
 # Go workspace file
 go.work
+
+# additional files
+*csv
+test/
+bin/
+*.nw
+*.nwk
+log
+*.tsv
